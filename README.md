@@ -97,3 +97,11 @@ The analyzer was tested using:
 ## Disclaimer
 
 This project is intended for educational purposes and cybersecurity portfolio demonstration.
+
+## Screenshots
+
+### Main Security Log Analysis
+![Main Analysis](Screenshots/main-analysis.png)
+
+### Input Validation Test
+![Validation Test](Screenshots/validation-test.png)
