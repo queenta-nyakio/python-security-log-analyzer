@@ -1,0 +1,9 @@
+{
+    "total_events": 1,
+    "successful_logins": 1,
+    "failed_logins": 0,
+    "invalid_records": 2,
+    "threshold": 5,
+    "suspicious_ips": {},
+    "failed_attempts_by_ip": {}
+}

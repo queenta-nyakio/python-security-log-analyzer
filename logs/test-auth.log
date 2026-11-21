@@ -1,0 +1,4 @@
+timestamp,source_ip,username,status
+2026-11-21T08:00:00,192.168.1.10,alice,SUCCESS
+2026-11-21T08:02:00,not-an-ip,bob,FAILED
+2026-11-21T08:03:00,192.168.1.15,bob,UNKNOWN

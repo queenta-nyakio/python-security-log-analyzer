@@ -1,0 +1,11 @@
+PYTHON SECURITY LOG ANALYSIS REPORT
+==========================================
+Total valid events: 1
+Successful logins: 1
+Failed logins: 0
+Invalid records: 2
+Detection threshold: 5
+
+FAILED LOGIN ATTEMPTS BY IP
+------------------------------------------
+No IP addresses reached the alert threshold.
