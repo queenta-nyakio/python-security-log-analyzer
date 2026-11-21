@@ -101,7 +101,8 @@ This project is intended for educational purposes and cybersecurity portfolio de
 ## Screenshots
 
 ### Main Security Log Analysis
-![Main Analysis](Screenshots/main-analysis.png)
+![Main Analysis](screenshots/main-analysis.png)
 
 ### Input Validation Test
-![Validation Test](Screenshots/validation-test.png)
+![Validation Test](screenshots/validation-test.png)
+
